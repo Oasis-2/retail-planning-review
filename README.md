@@ -1,4 +1,4 @@
-# Retail Planning – Power BI report (PBIP)
+# Retail Planning – Power BI report
 
 Open `Retail_Planning.pbip` in Power BI Desktop, then **Refresh**.
 
